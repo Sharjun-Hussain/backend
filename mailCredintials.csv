@@ -1,0 +1,4 @@
+"Service","Name","Username","Password","Hostname","Port","Security"
+"SMTP","Fermin Senger","fermin.senger@ethereal.email","h9kbXdexp34Pc655f1","smtp.ethereal.email",587,"STARTTLS"
+"IMAP","Fermin Senger","fermin.senger@ethereal.email","h9kbXdexp34Pc655f1","imap.ethereal.email",993,"TLS"
+"POP3","Fermin Senger","fermin.senger@ethereal.email","h9kbXdexp34Pc655f1","pop3.ethereal.email",995,"TLS"

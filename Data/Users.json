@@ -1,0 +1,18 @@
+[
+    {
+      "FirstName": "John ",
+      "LastName" :"Doe",
+      "Email": "johndoe@example.com",
+      "Mobile" : "0751111111",
+      "Password": "password123",
+      "HallName": "Hall of Fame",
+      "location": "New York City",
+      "capacity": 200,
+      "amenities": ["Air conditioning", "Wi-Fi", "Parking facilities", "Sound system"],
+      "images": ["https://example.com/hall1.jpg", "https://example.com/hall1.jpg"]
+  }
+     
+    
+    
+   
+  ]

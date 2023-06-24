@@ -1,0 +1,27 @@
+[
+    {
+       "HallName" : "Lee Meridian",
+       "amenities" : ["Air conditioning", "Wi-Fi", "Parking facilities", "Sound system"],
+       "Capacity" : "2000"
+      
+
+    },
+    {
+        "HallName" : "Paradice",
+        "amenities" : ["Air conditioning", "Wi-Fi", "Parking facilities", "Sound system"],
+        "Capacity" : "1000"
+ 
+     },
+     {
+        "HallName" : "Pearls",
+        "amenities" : ["Air conditioning", "Wi-Fi", "Parking facilities", "Sound system"],
+        "Capacity" : "2000"
+ 
+     },
+     {
+        "HallName" : "Bawa Royal",
+        "amenities" : ["Air conditioning", "Wi-Fi", "Parking facilities", "Sound system"],
+        "Capacity" : "2000"
+ 
+     }
+]
