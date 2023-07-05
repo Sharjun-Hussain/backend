@@ -1,0 +1,262 @@
+[{
+  "_id": {
+    "$oid": "6454eea63946d27d8ef3980e"
+  },
+  "createdAt": {
+    "$date": "2023-05-05T11:55:18.941Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645e18cfca2fcdef31745f28"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "Z6nwdQmK@DSW!HN",
+  "Password2": "dedwq",
+  "HallName": "wegf",
+  "Capacity": "egfwg",
+  "amenities": [
+    "Parking facilities",
+    "Tables and chairs",
+    "Sound system and speakers",
+    "Stage or platform",
+    "Cleaning and maintenance services",
+    "Catering and kitchen facilities",
+    "Catering and kitchen facilities",
+    "Lighting and special effects"
+  ],
+  "createdAt": {
+    "$date": "2023-05-12T10:45:35.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645e18d0ca2fcdef31745f2a"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "Z6nwdQmK@DSW!HN",
+  "Password2": "dedwq",
+  "HallName": "wegf",
+  "Capacity": "egfwg",
+  "amenities": [
+    "Parking facilities",
+    "Tables and chairs",
+    "Sound system and speakers",
+    "Stage or platform",
+    "Cleaning and maintenance services",
+    "Catering and kitchen facilities",
+    "Catering and kitchen facilities",
+    "Lighting and special effects"
+  ],
+  "createdAt": {
+    "$date": "2023-05-12T10:45:36.111Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645e18d0ca2fcdef31745f2c"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "Z6nwdQmK@DSW!HN",
+  "Password2": "dedwq",
+  "HallName": "wegf",
+  "Capacity": "egfwg",
+  "amenities": [
+    "Parking facilities",
+    "Tables and chairs",
+    "Sound system and speakers",
+    "Stage or platform",
+    "Cleaning and maintenance services",
+    "Catering and kitchen facilities",
+    "Catering and kitchen facilities",
+    "Lighting and special effects"
+  ],
+  "createdAt": {
+    "$date": "2023-05-12T10:45:36.272Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645e39a00b18bbab8796a94e"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "Z6nwdQmK@DSW!HN",
+  "Password2": "dwq",
+  "HallName": "wdqw",
+  "Capacity": "awdwa",
+  "amenities": [
+    "Parking facilities",
+    "Tables and chairs",
+    "Catering and kitchen facilities",
+    "Lighting and special effects",
+    "Cleaning and maintenance services"
+  ],
+  "createdAt": {
+    "$date": "2023-05-12T13:05:36.426Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645e3b1a0b18bbab8796a950"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "s",
+  "Password2": "s",
+  "HallName": "d",
+  "Capacity": "d",
+  "amenities": [
+    "Parking facilities"
+  ],
+  "createdAt": {
+    "$date": "2023-05-12T13:11:54.795Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64612c7ab4bbc24c0bc3b099"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "Z6nwdQmK@DSW!HN",
+  "Password2": "d",
+  "HallName": "vcx",
+  "Capacity": "sc",
+  "amenities": [
+    "Parking facilities",
+    "Tables and chairs"
+  ],
+  "createdAt": {
+    "$date": "2023-05-14T18:46:18.439Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64612cb6bc1a7f2bd6d6cf87"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "dvs",
+  "Password2": "sdv",
+  "HallName": "dvs",
+  "Capacity": "sv",
+  "amenities": [
+    "Parking facilities"
+  ],
+  "createdAt": {
+    "$date": "2023-05-14T18:47:18.884Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6462018a2d7dfa1a6b8ef0e5"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "Z6nwdQmK@DSW!HN",
+  "Password2": "12345678",
+  "HallName": "dgfcv",
+  "Capacity": "asdfg",
+  "amenities": [
+    "Parking facilities"
+  ],
+  "createdAt": {
+    "$date": "2023-05-15T09:55:22.080Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646210341c300d4d5b97bab0"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "admin",
+  "Password2": "admin",
+  "HallName": "leee",
+  "Capacity": "1000",
+  "amenities": [
+    "Parking facilities",
+    "Tables and chairs"
+  ],
+  "createdAt": {
+    "$date": "2023-05-15T10:57:56.902Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64651fe5cf60af9dc2f534d8"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "$2b$10$x.8UzO6upAroc/Sa90y1Ke7uBSlxrBOQNVc3VAJsFjAYHGhPg/xey",
+  "Password2": "$2b$10$x.8UzO6upAroc/Sa90y1Ke7uBSlxrBOQNVc3VAJsFjAYHGhPg/xey",
+  "HallName": "paradice",
+  "Capacity": "3000",
+  "amenities": [
+    "Parking facilities",
+    "Lighting and special effects",
+    "Cleaning and maintenance services",
+    "Catering and kitchen facilities",
+    "Stage or platform",
+    "Sound system and speakers",
+    "Tables and chairs"
+  ],
+  "createdAt": {
+    "$date": "2023-05-17T18:41:41.042Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646c5224e87a4ee76185e4b6"
+  },
+  "Email": "Admin@gmail.com",
+  "Password": "$2b$10$schuMIH/KfXFSBtmR2iLtOKXOLdqxy5aM4MX2n/x325h8KfWebTp2",
+  "amenities": [],
+  "createdAt": {
+    "$date": "2023-05-23T05:41:56.642Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "646c55c55508dcb6fa574154"
+  },
+  "FirstName": "Mohamed Hussain",
+  "LastName": "Sharjun",
+  "Email": "mrjoon005@gmail.com",
+  "Mobile": "0785706441",
+  "Password": "$2b$10$/U67ZLj8PX4DXkwRgiqZ4.xgRHfJ7.Mj0Hk4bjVgZ4RAcwmR4k3P6",
+  "Password2": "$2b$10$/U67ZLj8PX4DXkwRgiqZ4.xgRHfJ7.Mj0Hk4bjVgZ4RAcwmR4k3P6",
+  "HallName": "dqwdQFW",
+  "Capacity": "fwW",
+  "amenities": [
+    "Parking facilities"
+  ],
+  "createdAt": {
+    "$date": "2023-05-23T05:57:25.101Z"
+  },
+  "__v": 0
+}]

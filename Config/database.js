@@ -10,5 +10,12 @@ const ConnectDB =  ()=>{
         console.log(err)
     })
 }
-
 module.exports=ConnectDB;
+
+
+
+// // mongoose.connect('mongodb://127.0.0.1:27017/eventspot', {
+
+// mongodb+srv://Admin:Admin@cluster0.rjzjxp8.mongodb.net/eventdpot?retryWrites=true&w=majority
+
+

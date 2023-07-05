@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "64893f7516426dc8b68124bc"
+  },
+  "HallName": "Lee Meridian",
+  "amenities": [
+    "Air conditioning",
+    "Wi-Fi",
+    "Parking facilities",
+    "Sound system"
+  ],
+  "Capacity": "2000",
+  "Status": "Occupied",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64893f7516426dc8b68124bd"
+  },
+  "HallName": "Paradise",
+  "amenities": [
+    "Air conditioning",
+    "Wi-Fi",
+    "Parking facilities",
+    "Sound system"
+  ],
+  "Capacity": "1000",
+  "Status": "Occupied",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64893f7516426dc8b68124be"
+  },
+  "HallName": "Pearls",
+  "amenities": [
+    "Air conditioning",
+    "Wi-Fi",
+    "Parking facilities",
+    "Sound system"
+  ],
+  "Capacity": "2000",
+  "Status": "Available",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64893f7516426dc8b68124bf"
+  },
+  "HallName": "Bawa Royal",
+  "amenities": [
+    "Air conditioning",
+    "Wi-Fi",
+    "Parking facilities",
+    "Sound system"
+  ],
+  "Capacity": "2000",
+  "Status": "Occupied",
+  "__v": 0
+}]
